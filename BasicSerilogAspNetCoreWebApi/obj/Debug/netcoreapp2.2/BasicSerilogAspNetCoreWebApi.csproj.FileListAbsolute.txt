@@ -1,0 +1,14 @@
+C:\Users\EvrenPehlivan\source\repos\BasicSerilogAspNetCoreWebApi\BasicSerilogAspNetCoreWebApi\bin\Debug\netcoreapp2.2\BasicSerilogAspNetCoreWebApi.deps.json
+C:\Users\EvrenPehlivan\source\repos\BasicSerilogAspNetCoreWebApi\BasicSerilogAspNetCoreWebApi\bin\Debug\netcoreapp2.2\BasicSerilogAspNetCoreWebApi.runtimeconfig.json
+C:\Users\EvrenPehlivan\source\repos\BasicSerilogAspNetCoreWebApi\BasicSerilogAspNetCoreWebApi\bin\Debug\netcoreapp2.2\BasicSerilogAspNetCoreWebApi.runtimeconfig.dev.json
+C:\Users\EvrenPehlivan\source\repos\BasicSerilogAspNetCoreWebApi\BasicSerilogAspNetCoreWebApi\bin\Debug\netcoreapp2.2\BasicSerilogAspNetCoreWebApi.dll
+C:\Users\EvrenPehlivan\source\repos\BasicSerilogAspNetCoreWebApi\BasicSerilogAspNetCoreWebApi\obj\Debug\netcoreapp2.2\BasicSerilogAspNetCoreWebApi.csprojAssemblyReference.cache
+C:\Users\EvrenPehlivan\source\repos\BasicSerilogAspNetCoreWebApi\BasicSerilogAspNetCoreWebApi\obj\Debug\netcoreapp2.2\BasicSerilogAspNetCoreWebApi.csproj.CoreCompileInputs.cache
+C:\Users\EvrenPehlivan\source\repos\BasicSerilogAspNetCoreWebApi\BasicSerilogAspNetCoreWebApi\obj\Debug\netcoreapp2.2\BasicSerilogAspNetCoreWebApi.RazorAssemblyInfo.cache
+C:\Users\EvrenPehlivan\source\repos\BasicSerilogAspNetCoreWebApi\BasicSerilogAspNetCoreWebApi\obj\Debug\netcoreapp2.2\BasicSerilogAspNetCoreWebApi.RazorAssemblyInfo.cs
+C:\Users\EvrenPehlivan\source\repos\BasicSerilogAspNetCoreWebApi\BasicSerilogAspNetCoreWebApi\obj\Debug\netcoreapp2.2\BasicSerilogAspNetCoreWebApi.AssemblyInfoInputs.cache
+C:\Users\EvrenPehlivan\source\repos\BasicSerilogAspNetCoreWebApi\BasicSerilogAspNetCoreWebApi\obj\Debug\netcoreapp2.2\BasicSerilogAspNetCoreWebApi.AssemblyInfo.cs
+C:\Users\EvrenPehlivan\source\repos\BasicSerilogAspNetCoreWebApi\BasicSerilogAspNetCoreWebApi\obj\Debug\netcoreapp2.2\BasicSerilogAspNetCoreWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\EvrenPehlivan\source\repos\BasicSerilogAspNetCoreWebApi\BasicSerilogAspNetCoreWebApi\bin\Debug\netcoreapp2.2\BasicSerilogAspNetCoreWebApi.pdb
+C:\Users\EvrenPehlivan\source\repos\BasicSerilogAspNetCoreWebApi\BasicSerilogAspNetCoreWebApi\obj\Debug\netcoreapp2.2\BasicSerilogAspNetCoreWebApi.dll
+C:\Users\EvrenPehlivan\source\repos\BasicSerilogAspNetCoreWebApi\BasicSerilogAspNetCoreWebApi\obj\Debug\netcoreapp2.2\BasicSerilogAspNetCoreWebApi.pdb
